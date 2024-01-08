@@ -69,11 +69,9 @@ module.exports = {
       },
       fontFamily: {},
       backgroundImage: {
-        "hero-banner": "url('assets/banner-img/hero-banner.webp')",
-        "hero-banner-o": "url('assets/banner-img/hero-banner-optometry.webp')",
-        "hero-banner-mlt": "url('assets/banner-img/hero-banner-mlt.webp')",
-        "hero-banner-nur": "url('assets/banner-img/hero-banner-nursing.webp')",
+        "hero-banner": "url('assets/banner-img/hero-banner-ihm-1.webp')",
         card: "linear-gradient(to right, transparent 20%, #A91D54 20%)",
+        'highlight-card-animate': "url(https://a.storyblok.com/f/45434/x/fafbf088ef/masters-card.svg)",
         card1: "linear-gradient(172deg,#a91d54 70% , white 30%)",
       },
       backgroundColor: {
